@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'jetbrains mono', sans-serif;
+}
+
+body {
+    padding-bottom: 150px;
+    background-color: #1f1f1f;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+}
+
+.title {
+    font-size: 3rem;
+    margin-top: 8rem; 
+    margin-bottom: 2rem;
+    color:#18c1ae;   
+}
+
+hr {
+    width: 20%;
+    max-width: 100px;
+    border: 2px solid white;
+    margin-bottom: 20px;
+  
+}
+
+section {
+    margin-top: 4rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width:280px;
+    max-width: 500px;
+    height: 500px;
+    gap: 10px;
+     border-radius: 1rem;
+    border: .5vmin solid #05060f;
+    box-shadow: .4rem .4rem #05060f;
+    margin: 10px;
+}
+section p{
+    margin-top: 10px;
+    width: calc( 100% - 20px);
+}
+.image-container{
+    height: 120px;
+    width: 120px;
+    border-radius: 50% ;
+    border: 3px solid #18c1ae;
+    ;
+    box-shadow: 0.2em 0.1em #18c1ae;
+    ;
+}
+.image-container img{
+    border-radius: 50% ;
+    width: 100%;
+    
+}
+.review-container h2, h3{
+    margin: 4px auto;
+    padding: 2px;
+    width: 250px;
+    text-align: center;
+}
+section h3{
+    color:#18c1ae;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding: 2rem;
+    gap: 1rem;
+    background-color: #393930;
+    border-radius: 1rem;
+}
+
+button{
+    margin-top: 10px;
+    background: #393930;
+  padding: 0.6em 1.3em;
+  font-weight: 900;
+  font-size: 18px;
+  border: 3px solid black;
+  border-radius: 0.4em;
+  box-shadow: 0.1em 0.1em;
+  color: #18c1ae;
+}
+button:hover {
+    transform: translate(-0.05em, -0.05em);
+    box-shadow: 0.15em 0.15em #18c1ae;
+  }
+  
+  button:active {
+    transform: translate(0.05em, 0.05em);
+    box-shadow: 0.05em 0.05em;
+  }
