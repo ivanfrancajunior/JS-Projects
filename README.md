@@ -9,15 +9,15 @@ Este projeto tem como objetivo fortalecer o entendimento de manipulação do DOM
 
 ***Descrição:*** Este contador permite que os usuários incrementem e decrementem um valor exibido na tela. É uma ótima maneira de praticar a manipulação de elementos HTML e a resposta a eventos do usuário.
 
-[Link para a versão online do projeto](link_do_projeto_1)
+[Link para a versão online do projeto](https://conterbyjota.netlify.app)
 
 ## Projeto 2: Color Flipper
 
-O Color Flipper é um projeto divertido que gera cores aleatórias. Desenvolvido com HTML, CSS e JavaScript puro, este projeto reforça conceitos de manipulação de cores, arrays e eventos em JavaScript.
+O Color Flipper é um projeto divertido que gera cores aleatórias. Desenvolvido com HTML, CSS e JavaScript puro, este projeto reforça conceitos de manipulação de cores e eventos em JavaScript.
 
 ***Descrição:*** Cada vez que o usuário clica em um botão, o fundo da página é alterado para uma cor aleatória. Projetodesenvolvido no intuito de treinar por meio da geração de números aleatórios,  manipular estilos CSS por meio do JavaScript.
 
-[Link para a versão online do projeto](link_do_projeto_2)
+[Link para a versão online do projeto](https://colorflipper-byjota.netlify.app)
 
 ## Projeto 3: CatImage
 
@@ -27,7 +27,7 @@ Este projeto utiliza uma API de imagens de gatos para exibir imagens fofinhas. D
 
 [Link para a versão online do projeto](link_do_projeto_3)
 
-## Projeto 4: WeatherApp
+## Projeto 4: WeatherApp -(Em breve)
 
 O Weather App é um aplicativo de previsão do tempo. Desenvolvido em HTML, CSS e JavaScript puro, este projeto reforça habilidades de manipulação de APIs, requisições assíncronas e manipulação de dados em JavaScript.
 
@@ -35,7 +35,7 @@ O Weather App é um aplicativo de previsão do tempo. Desenvolvido em HTML, CSS 
 
 [Link para a versão online do projeto](link_do_projeto_4)
 
-## Projeto 5: 2048 Game
+## Projeto 5: 2048 Game - (Em breve)
 
 Uma versão do popular jogo 2048 desenvolvida em HTML, CSS e JavaScript puro. Este projeto reforça habilidades de manipulação do DOM, eventos de teclado e lógica de programação.
 
@@ -43,7 +43,7 @@ Uma versão do popular jogo 2048 desenvolvida em HTML, CSS e JavaScript puro. Es
 
 [Link para a versão online do projeto](link_do_projeto_5)
 
-## Projeto 6: Jogo da Velha
+## Projeto 6: Jogo da Velha - (Em breve)
 
 Um clássico jogo da velha desenvolvido em HTML, CSS e JavaScript puro. Este projeto reforça habilidades de manipulação do DOM, eventos de clique e lógica de programação.
 
@@ -57,7 +57,7 @@ Um aplicativo de quiz desenvolvido em HTML, CSS e JavaScript puro. Este projeto 
 
 ***Descrição:*** Os usuários podem responder a perguntas de múltipla escolha e receber feedback imediato sobre suas respostas. É uma ótima maneira de praticar lógica condicional, manipulação de elementos HTML e tratamento de eventos.
 
-[Link para a versão online do projeto](link_do_projeto_7)
+[Link para a versão online do projeto](https://quiz-byjota.netlify.app/)
 
 ---
 
