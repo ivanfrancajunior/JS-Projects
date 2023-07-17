@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+body {
+  text-align: center;
+  font-family: 'Noto Sans Mono', monospace;
+  background-color: #444654;
+  color: black;
+}
+
+h1 {
+  font-size: 42px;
+  margin-top: 25%;
+}
+
+
+#buttons-container {
+  margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+#buttons-container button {
+
+  background: #b2a0bb;
+  font-family: inherit;
+  padding: 0.6em 1.3em;
+  font-weight: 900;
+  font-size: 18px;
+  border: 3px solid black;
+  border-radius: 0.4em;
+  box-shadow: 0.1em 0.1em;
+}
+
+button:hover {
+  transform: translate(-0.05em, -0.05em);
+  box-shadow: 0.15em 0.15em;
+}
+
+button:active {
+  transform: translate(0.05em, 0.05em);
+  box-shadow: 0.05em 0.05em;
+}
+
+button:hover .button_top {
+  transform: translateY(-0.33em);
+}
+
+/* jogo */
+section {
+  padding: 40px;
+  margin: auto;
+  border-radius: 12px;
+}
+
+#container {
+  width: 300px;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.box {
+  height: 100px;
+  border: 2px solid white;
+  box-sizing: border-box;
+  flex: 1 1 33%;
+}
+
+#block-1,
+#block-2,
+#block-3 {
+  border-top: none;
+}
+
+#block-1,
+#block-4,
+#block-7 {
+  border-left: none;
+}
+
+#block-3,
+#block-6,
+#block-9 {
+  border-right: none;
+}
+
+#block-7,
+#block-8,
+#block-9 {
+  border-bottom: none;
+}
+
+
+.x {
+  font-size: 65px;
+  color: #a04f4b;
+  display: inline-block;
+  line-height: 100px;
+}
+
+.o {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #bad80a;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top: 17px;
+}
+
+.hide {
+  display: none !important;
+}
+
+#scoreboard-container {
+  font-weight: bold;
+  margin-top: 30px;
+  font-size: 25px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.score-box {
+  display: inline-block;
+  margin: 0px 20px;
+}
+
+#x-scoreboard {
+  color: #a04f4b;
+  margin-right: 3px;
+}
+
+#o-scoreboard {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #bad80a;
+  border-radius: 50%;
+  margin-right: 3px;
+}
+
+
+#message p {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 40%;
+  width: 320px;
+  font-size: 30px;
+  border-radius: 12px;
+  background-color: #b2a0bb;
+  color: #FFF;
+  padding: 20px;
+}
