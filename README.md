@@ -43,19 +43,19 @@ Uma versão do popular jogo 2048 desenvolvida em HTML, CSS e JavaScript puro. Es
 
 [Link para a versão online do projeto](link_do_projeto_5)
 
-## Projeto 6: Jogo da Velha - (Em breve)
+## Projeto 6: Jogo da Velha 
 
-Um clássico jogo da velha desenvolvido em HTML, CSS e JavaScript puro. Este projeto reforça habilidades de manipulação do DOM, eventos de clique e lógica de programação.
+Um clássico jogo da velha desenvolvido em HTML, CSS e JavaScript puro.
 
-***Descrição:*** Os usuários podem jogar uma partida do jogo da velha contra outro jogador. É uma ótima oportunidade para praticar lógica de programação, manipulação do DOM e tratamento de eventos de clique.
+***Descrição:*** Os usuários podem jogar uma partida do jogo da velha contra outro jogador ou a máquina. É uma ótima oportunidade para praticar lógica de programação, manipulação do DOM e tratamento de eventos de clique.
 
-[Link para a versão online do projeto](link_do_projeto_6)
+[Link para a versão online do projeto](https://tictactoe-byjota.netlify.app)
 
 ## Projeto 7: App de Quiz
 
 Um aplicativo de quiz desenvolvido em HTML, CSS e JavaScript puro. Este projeto reforça habilidades de manipulação do DOM, eventos de clique e lógica de programação.
 
-***Descrição:*** Os usuários podem responder a perguntas de múltipla escolha e receber feedback imediato sobre suas respostas. É uma ótima maneira de praticar lógica condicional, manipulação de elementos HTML e tratamento de eventos.
+***Descrição:*** Os usuários podem responder a perguntas de múltipla escolha e receber feedback imediato sobre suas respostas.
 
 [Link para a versão online do projeto](https://quiz-byjota.netlify.app/)
 
